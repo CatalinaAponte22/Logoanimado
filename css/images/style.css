@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+#circulo{
+    animation-delay:0s ;
+}
+#letras{
+    animation-delay: 1.3s;
+}
+#flores{
+    animation-delay: 1.3s;
+}
+#c{
+    animation-delay: 2.5s;
+   
+}
